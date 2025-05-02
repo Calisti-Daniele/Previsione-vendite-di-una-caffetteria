@@ -27,10 +27,9 @@ Il dataset copre un intero anno (2023) e contiene vendite simulate ma realistich
 ## 🧠 Obiettivi
 
 - Analisi esplorativa e visualizzazione dei dati
-- Addestramento di modelli di regressione (es. XGBoost)
+- Addestramento di modelli di regressione
 - Previsione delle vendite future
 - Interfaccia con Streamlit per l’uso interattivo
-- Spiegazione delle previsioni tramite LLM
 
 ---
 
@@ -66,4 +65,3 @@ The dataset covers one full year (2023) and contains 365 entries, one per day.
 - Training regression models (e.g., XGBoost)
 - Forecasting future sales
 - Streamlit-based interactive interface
-- Forecast explanation via LLM

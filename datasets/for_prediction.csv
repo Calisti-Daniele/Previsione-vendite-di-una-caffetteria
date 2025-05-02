@@ -1,0 +1,15 @@
+Date,DayOfWeek,Promo,Weather,Temperature,Season
+2023-01-01,Sunday,0,Snowy,8.2,Winter
+2023-01-02,Monday,0,Snowy,8.8,Winter
+2023-01-03,Tuesday,0,Rainy,-3.6,Winter
+2023-01-04,Wednesday,0,Cloudy,-2.1,Winter
+2023-01-05,Thursday,0,Sunny,2.0,Winter
+2023-01-06,Friday,0,Snowy,-0.3,Winter
+2023-01-07,Saturday,0,Sunny,8.7,Winter
+2023-01-08,Sunday,1,Sunny,1.4,Winter
+2023-01-09,Monday,0,Snowy,1.6,Winter
+2023-01-10,Tuesday,1,Cloudy,3.5,Winter
+2023-01-11,Wednesday,1,Cloudy,4.6,Winter
+2023-01-12,Thursday,1,Rainy,12.7,Winter
+2023-01-13,Friday,0,Rainy,3.9,Winter
+2023-01-14,Saturday,1,Cloudy,2.5,Winter
