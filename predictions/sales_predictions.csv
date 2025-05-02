@@ -1,0 +1,15 @@
+Date,Promo,Temperature,Month,IsWeekend,DayOfYear,IsHoliday,DayOfWeek_Monday,DayOfWeek_Saturday,DayOfWeek_Sunday,DayOfWeek_Thursday,DayOfWeek_Tuesday,DayOfWeek_Wednesday,Weather_Rainy,Weather_Snowy,Weather_Sunny,Season_Spring,Season_Summer,Season_Winter,Predicted_Sales
+2023-01-01,0,8.2,1,True,1,False,False,False,True,False,False,False,False,True,False,0,0,0,216
+2023-01-02,0,8.8,1,False,2,True,True,False,False,False,False,False,False,True,False,0,0,0,133
+2023-01-03,0,-3.6,1,False,3,False,False,False,False,False,True,False,True,False,False,0,0,0,166
+2023-01-04,0,-2.1,1,False,4,False,False,False,False,False,False,True,False,False,False,0,0,0,198
+2023-01-05,0,2.0,1,False,5,False,False,False,False,True,False,False,False,False,True,0,0,0,220
+2023-01-06,0,-0.3,1,False,6,False,False,False,False,False,False,False,False,True,False,0,0,0,137
+2023-01-07,0,8.7,1,True,7,False,False,True,False,False,False,False,False,False,True,0,0,0,257
+2023-01-08,1,1.4,1,True,8,False,False,False,True,False,False,False,False,False,True,0,0,0,340
+2023-01-09,0,1.6,1,False,9,False,True,False,False,False,False,False,False,True,False,0,0,0,135
+2023-01-10,1,3.5,1,False,10,False,False,False,False,False,True,False,False,False,False,0,0,0,284
+2023-01-11,1,4.6,1,False,11,False,False,False,False,False,False,True,False,False,False,0,0,0,284
+2023-01-12,1,12.7,1,False,12,False,False,False,False,True,False,False,True,False,False,0,0,0,244
+2023-01-13,0,3.9,1,False,13,False,False,False,False,False,False,False,True,False,False,0,0,0,166
+2023-01-14,1,2.5,1,True,14,False,False,True,False,False,False,False,False,False,False,0,0,0,344
